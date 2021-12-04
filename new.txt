@@ -1,0 +1,5 @@
+ Name: Oksana
+ Surname: Iskandarova
+ Age: 29
+ Number of pets:
+ Salary: 1000$
