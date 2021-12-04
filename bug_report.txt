@@ -1,4 +1,5 @@
-**Bug Report**
+Bug Report
+
 Bug ID: Needed for bug tracking
 Title: What, Where, When
 Severity:Blocker/Critical/Major/Minor/Trivial
