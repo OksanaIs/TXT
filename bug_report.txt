@@ -1,5 +1,5 @@
 Bug ID: Needed for bug tracking
-Title: What, Where, When
+Title: What? Where? When?
 Severity:Blocker/Critical/Major/Minor/Trivial
 Priority: High/Medium/Minor
 Assigned to: Developer name
