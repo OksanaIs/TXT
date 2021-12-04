@@ -23,6 +23,7 @@
 
  8. Send the changes to an external repository
 	git commit -am "Message"
+	git push
 
  9. Create "preferences.txt" file
 	touch preferences.txt

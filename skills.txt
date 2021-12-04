@@ -10,6 +10,6 @@
    - Understanding iOS, Android functions, guidelines
    - Terminal Linux
    - GitHub
-   - PostrgeSQL
+   - PostgreSQL
    - Jmeter
    - Python (learning the basics, building a client/server application)	
