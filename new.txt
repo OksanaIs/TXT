@@ -1,5 +1,6 @@
- Name: Oksana
- Surname: Iskandarova
- Age: 29
- Number of pets:
- Salary: 1000$
+About me:
+    Name: Oksana
+    Surname: Iskandarova
+    Age: 30
+    Number of pets: 1 cat
+    Salary: 1000$
