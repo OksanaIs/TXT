@@ -1,4 +1,4 @@
-## Homework_2: XML Format
+## Homework_2: TXT Format
 1. Create an external repository called TXT:
 ```
 In GitHub account  click on the Your repositories -> New -> write Repository name -> Create repository
