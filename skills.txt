@@ -1,13 +1,18 @@
-Skills:
-  - Knowledge of basic theory (What is testing, bug reports, documentation, types, methods, testing directions) SDLC, STLC
-  - Understanding the Scrum development methodology
-  - Knowledge about HTTP Server request methods, HTTP server response codes, HTTP requests, and response structures
-  - Understanding what is JSON, XML, their structure
-  - API testing via Postman (JS, API autotests)
-  - Programs: Charles, Fiddler, PostgreSQL, Jmeter
-  - Knowledge of DevTools of web browsers (Google Chrome, Firefox)
-  - Mobile testing
-  - Understanding iOS, Android functions, guidelines
-  - Terminal Linux
-  - GitHub
-  - Python (learning the basics, building a client/server application)	
+Skills
+Basic theory:
+	- What is testing, SDLC, STLC
+	- Writing Test documentation (Bug Reports, Checklists, Test Cases)
+	- Types, methods, levels of testing, etc
+Client server architecture:
+	- HTTP methods of requests to the server
+	- HTTP server response codes
+	- Structures of HTTP requests and responses
+	- What is JSON, XML. Their structure
+Programs:
+	- Postman: API testing (JS, API autotests)
+	- Charles and Fiddler: Sniffing HTTP web traffic, intercepting mobile traffic
+	- XCode and Android Studio
+	- Jmeter: Load, Stress, Performance testing
+SQL: Create, Delete, Drop, Insert Into, Select, From, Where, Join
+Python: Learning the basics. Creating a client-server application
+DevTools Web browsers: Google Chrome, FireFox

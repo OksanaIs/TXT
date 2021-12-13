@@ -1,6 +1,14 @@
-My preferences
+Preferences
 Favorite movie: Intouchables
-Favorite TV series: La casa de papel
-Favorite food: Rolls
+Favorite TV serials: 
+	- La casa de papel
+	- Vikings
+Favoritem foods: 
+	- Rolls
+	- Steak
+	- Cakes
 Favorite season: Spring
-Country which I would like to visit: Sweden
+Favorite countries: 
+	- Sweden
+	- USA
+	- Italy

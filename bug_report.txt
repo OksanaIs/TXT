@@ -1,24 +1,20 @@
-Bug ID: Needed for bug tracking
-Title: What? Where? When?
-Severity: Blocker
-          Critical
-          Major
-          Minor
-          Trivial
-Priority: High
-          Medium
-          Minor
-Assigned to: Developer name
-Reported by: QA Engineer name
-Environment: Device
-             Manufacturer and model number
-             OS version/Application version
-             Network connectivity
-             Screen orientation
-             Browser
-Steps to Reproduction: Should contain the minimum steps that describe the entire path of reproducing the bug
-Expected result: Expected result according to the technical task, design, test cases outcome
-Actual result: This field describes the actual effect of the bug
-Attachments: Screenshots
-             Video
-             Log-file
+Bug Report
+Bug ID": #12
+Title: When tapping on the Wishlist icon and Login, the item is not added to the Wishlist
+Severity: Major
+Priority: Medium
+Assigned to: Johny Sonson
+Reported by: Oksana Iskandarova
+Environment:
+	Platform: macOS Bug Sur, version 11.6
+	Browser: Chrome 96.0.4664.93 (Official Build) (x86_64)
+Steps:
+	1. Go to https://www.sportsmans.com
+	2. Go to any product detail page
+	3. Tap on wishlist icon
+	4. Log in to account
+	5. Observe wishlist icon on PDP
+	6. Go to My account -> Wishlist
+Expected result: The Wishlist icon should be highlighted and an item should be added to the Wishlist after login
+Actual result: When tapping on the Wishlist and login, observed that the item is not added in the Wishlist of the My Account tab, and the Wishlist button is not highlighted
+Attachments: Video

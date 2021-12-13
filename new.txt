@@ -1,6 +1,11 @@
-About me:
-    Name: Oksana
-    Surname: Iskandarova
-    Age: 30
-    Number of pets: 1 cat
-    Salary: 1000$
+Information about me
+Name: Oksana
+Surname: Iskandarova
+Age: 30,
+Date of Birth: 12/09/1991
+Work
+Position: QA Engineer
+Looking for a job: Remote job
+Salary
+Amount: 1000
+Currency: USD
